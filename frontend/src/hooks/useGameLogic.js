@@ -3,7 +3,7 @@ import io from "socket.io-client";
 import { startGameAPI, cutNumberAPI } from "../services/api";
 import toast from "react-hot-toast";
 
-const socket = io("http://localhost:5000");
+const socket = io(import.meta.env.VITE_APP_SOCKET_URL);
 
 export const useGameLogic = () => {
   const [user1Grid, setUser1Grid] = useState(Array(9).fill(""));

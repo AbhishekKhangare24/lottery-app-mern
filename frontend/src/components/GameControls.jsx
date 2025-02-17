@@ -35,7 +35,7 @@ const GameControls = ({
         }}
         onClick={restartGame}
       >
-        Restart Game
+        Reset
       </Button>
     )}
 
