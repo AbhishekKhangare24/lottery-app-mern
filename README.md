@@ -2,6 +2,9 @@
 
 A real-time lottery game built with **MongoDB, Express.js, React, and Node.js (MERN)**. Users can create a 3x3 grid, play with random number selection, and get real-time updates using **Socket.IO**.
 
+🌍 Live Demo
+🔗 **Play the Game Here:** [Lottery Game Live](https://lottery-app-mern.vercel.app)
+
 ## 🚀 Features
 
 - **User-defined 3x3 grid** (Numbers 1-9, no duplicates).  
@@ -20,8 +23,6 @@ A real-time lottery game built with **MongoDB, Express.js, React, and Node.js (M
 
 ---
 
-🌍 Live Demo
-🔗 **Play the Game Here:** [Lottery Game Live](https://lottery-app-mern.vercel.app)
 
 ## 📸 Screenshots  
 
