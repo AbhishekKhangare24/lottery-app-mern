@@ -11,10 +11,12 @@ connectDB();
 
 const app = express();
 const server = createServer(app);
+
+// Set up Socket.io with CORS
 const io = new Server(server, {
   cors: {
     origin: [
-      "https://lottery-app-mern.vercel.app/,",
+      "https://lottery-app-mern.vercel.app",
       "http://localhost:5173",
       "http://localhost:5174",
     ],
