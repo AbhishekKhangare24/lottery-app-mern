@@ -4,7 +4,7 @@ A real-time lottery game built with **MongoDB, Express.js, React, and Node.js (M
 
 ## 🔗 Live Demo  
 
-[🎮 Play the Game](https://lottery-app-mern.vercel.app){:target="_blank"}
+[🎮 Play the Game](https://lottery-app-mern.vercel.app)
 
 ## 🚀 Features
 
